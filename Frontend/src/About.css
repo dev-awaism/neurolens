@@ -1,0 +1,33 @@
+.about-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.about-title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    color: #0056b3; /* Adjust the color to match your site's theme */
+}
+
+.about-description {
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+.about-mission,
+.about-vision {
+    margin-top: 2em;
+}
+
+.about-mission h2,
+.about-vision h2 {
+    color: #0056b3; /* Adjust the color to match your site's theme */
+    margin-bottom: 0.5em;
+}
+
+/* You can add more styling as needed */

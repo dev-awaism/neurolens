@@ -1,0 +1,49 @@
+# Node.js dependencies
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Uploads or temporary user files
+uploads/
+temp/
+saved_model/
+test_split/
+train_split/
+
+# Frontend build output (optional: add if you have a build step)
+Frontend/build/
+
+# Jupyter notebooks or cache
+.ipynb_checkpoints/
+
+# VSCode or IDE-specific files
+.vscode/
+.idea/
+
+# Misc
+*.bak
+*.swp
+*~
