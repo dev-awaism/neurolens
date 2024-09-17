@@ -21,4 +21,4 @@ const empSchema = new mongoose.Schema({
   //  required: true
   // },
 })
-module.exports = mongoose.model('Empl', empSchema)
+module.exports = mongoose.model('Empl', empSchema)// Updated on Sun Jul  6 12:57:26 CDT 2025
